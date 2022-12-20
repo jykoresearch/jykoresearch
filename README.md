@@ -14,8 +14,7 @@
 
 🌱 I'm a PhD student in Civil Engineering (Building Science) at the University of Toronto, [IIB-LAB](https://sites.google.com/view/iiblab/) (advisor: [Dr. Seungjae Lee](https://sites.google.com/view/iiblab/people/seungjae-lee?authuser=0)). I hold a Master of Science in Architecutural Engineering under the supervision of [Dr. Jae-Weon Jeong](https://scholar.google.com/citations?user=9o_3FZ4AAAAJ&hl=ko&oi=ao/) at Hanyang University, after graduating my undergraduate as *Summa Cum Laude* in Architectural Engineering at Hanyang University as well. 
 
-<img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="30"> I am interested in studying how occupants interact with their buildings through indoor environments and modern interfaces and what causes occupants' behaviours. To investigate that issue, I am currently working on Bayesian Causal Inference and AI techniques to find out causality in occupant behaviour. If you are interested in  myself, please look into my [CV](https://www.linkedin.com/in/jinyoung-ko/overlay/1635508081866/single-media-viewer/?profileId=ACoAADLukeoBDh0_n-R_V_P9GuCmTwiU1S-YcFc).
-
+<img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="30"> I am interested in studying how occupants interact with their buildings through indoor environments and modern interfaces and what causes occupants' behaviours. To investigate that issue, I am currently working on Bayesian Causal Inference and AI techniques to find out causality in occupant behaviour. If you are interested in  myself, please look into my [CV](https://drive.google.com/file/d/1ej8uc3I1HGrWZGoJIff2s_DBOx-qbQ4D/view?usp=share_link).
 
 
 

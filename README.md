@@ -10,12 +10,11 @@
     <img width="22px" src="https://us-central1-iconscout-1539.cloudfunctions.net/iconscout-gcp-functions-production-download?name=linkedin&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-24%2F461814.png&width=24&height=24" />
 </a>
 
+### My name is Jinyoung Ko :) 
 
-### My name is Jinyoung Ko! 
+🌱 I'm a PhD student in Civil Engineering (Building Science) at the University of Toronto, [IIB-LAB](https://sites.google.com/view/iiblab/) (advisor: [Dr. Seungjae Lee](https://sites.google.com/view/iiblab/people/seungjae-lee?authuser=0)). I hold a Master of Science in Architecutural Engineering under the supervision of [Dr. Jae-Weon Jeong](https://scholar.google.com/citations?user=9o_3FZ4AAAAJ&hl=ko&oi=ao/) at Hanyang University, after graduating my undergraduate as *Summa Cum Laude* in Architectural Engineering at Hanyang University as well. 
 
-🌱 I'm a PhD student at the University of Toronto, [IIB-LAB](https://sites.google.com/view/iiblab/) (advisor: [Dr. Seungjae Lee](https://sites.google.com/view/iiblab/people/seungjae-lee?authuser=0)). I received Masters in Architecutural Engineering under the supervision of [Dr. Jae-Weon Jeong](https://scholar.google.com/citations?user=9o_3FZ4AAAAJ&hl=ko&oi=ao/) at Hanyang University, South Korea. 
-
-<img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="30"> I am interested in investigating how occupants interact with their buildings by applying modern causal inference techniques. Here is my [CV](https://www.linkedin.com/in/jinyoung-ko/overlay/1635508081866/single-media-viewer/?profileId=ACoAADLukeoBDh0_n-R_V_P9GuCmTwiU1S-YcFc).
+<img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="30"> I am interested in studying how occupants interact with their buildings through indoor environments and modern interfaces and what causes occupants' behaviours. To investigate that issue, I am currently working on Bayesian Causal Inference and AI techniques to find out causality in occupant behaviour. If you are interested in  myself, please look into my [CV](https://www.linkedin.com/in/jinyoung-ko/overlay/1635508081866/single-media-viewer/?profileId=ACoAADLukeoBDh0_n-R_V_P9GuCmTwiU1S-YcFc).
 
 
 

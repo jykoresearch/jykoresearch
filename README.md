@@ -8,7 +8,8 @@
 </a>
 <a href="https://www.linkedin.com/in/jinyoung-ko/" target="_blank">
     <img width="22px" src="https://us-central1-iconscout-1539.cloudfunctions.net/iconscout-gcp-functions-production-download?name=linkedin&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-24%2F461814.png&width=24&height=24" />
-</a> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjykoresearch&count_bg=%233D53C8&title_bg=%23000000&icon=flood.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</a> 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjykoresearch&count_bg=%233D53C8&title_bg=%23000000&icon=flood.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ### My name is Jinyoung Ko, currently in Toronto, CA. 

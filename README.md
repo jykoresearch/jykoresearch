@@ -12,7 +12,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjykoresearch&count_bg=%233D53C8&title_bg=%23000000&icon=flood.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### My name is Jinyoung Ko, a "Building Scientist" interested *in "Human-Building Interaction"*. 
+### My name is Jinyoung Ko: a Building Scientist interested in *Human-Building Interaction*. 
 
 🌱 I'm a PhD student in Civil Engineering (Building Science) at the University of Toronto, [IIB-LAB](https://sites.google.com/view/iiblab/) (advisor: [Dr. Seungjae Lee](https://sites.google.com/view/iiblab/people/seungjae-lee?authuser=0)). I hold a Master of Science in Architectural Engineering under the supervision of [Dr. Jae-Weon Jeong](https://scholar.google.com/citations?user=9o_3FZ4AAAAJ&hl=ko&oi=ao/) at Hanyang University, after graduating my undergraduate as *Summa Cum Laude* in Architectural Engineering at Hanyang University as well. 
 

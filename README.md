@@ -1,4 +1,4 @@
-## Hello all!!
+## Hi All !!!
 
 <a href="mailto:jinyoung.ko@mail.utoronto.ca" target="_blank">
     <img width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" />

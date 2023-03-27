@@ -1,18 +1,18 @@
 ## Hi All !!!
 <a href="mailto:jinyoung.ko@mail.utoronto.ca" target="_blank">
-    <img height="30px" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=Microsoft Outlook&logoColor=white" />
+    <img height="25px" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=Microsoft Outlook&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/jinyoung-ko/" target="_blank">
-    <img height="30px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+    <img height="25px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
 </a> 
 <a href="https://scholar.google.com/citations?user=IDIJNHQAAAAJ&hl=ko" target="_blank">
-    <img height="30px" src="https://img.shields.io/badge/Google Scholar-4285F4?style=for-the-badge&logo=Google Scholar&logoColor=white" />
+    <img height="25px" src="https://img.shields.io/badge/Google Scholar-4285F4?style=for-the-badge&logo=Google Scholar&logoColor=white" />
 </a>
 <a href="https://github.com/jykoresearch" target="_blank">
-    <img height="30px" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
+    <img height="25px" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
 </a>
 <a href="https://sites.google.com/view/iiblab/" target="_blank">
-    <img height="30px" src="https://img.shields.io/badge/IIB Lab @ University of Toronto-6AFDEF?style=for-the-badge&logo=Internet Archive&logoColor=white" />
+    <img height="25px" src="https://img.shields.io/badge/IIB Lab @ University of Toronto-6AFDEF?style=for-the-badge&logo=Internet Archive&logoColor=white" />
 </a>
 
 <!-- 

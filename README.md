@@ -12,11 +12,11 @@
     <img height="25px" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
 </a>
 <a href="https://sites.google.com/view/iiblab/" target="_blank">
-    <img height="25px" src="https://img.shields.io/badge/IIB Lab @ U of T-6AFDEF?style=for-the-badge&logo=Internet Archive&logoColor=white" />
+    <img height="25px" src="https://img.shields.io/badge/IIB Lab @ U of T-006BB6?style=for-the-badge&logo=Internet Archive&logoColor=white" />
 </a>
 </a>
 <a href="https://hab.civmin.utoronto.ca/" target="_blank">
-    <img height="25px" src="https://img.shields.io/badge/Hub for Advancing Buildings @ U of T-006BB6?style=for-the-badge&logo=Houzz&logoColor=white" />
+    <img height="25px" src="https://img.shields.io/badge/Hub for Advancing Buildings @ U of T-0E83CD?style=for-the-badge&logo=Houzz&logoColor=white" />
 </a>
 
 <!-- 

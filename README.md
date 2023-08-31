@@ -23,7 +23,7 @@ https://simpleicons.org/
 
 ### My name is Jinyoung Ko, a Building Scientist interested in *Human-Building Interaction*. 
 
-🌱 I'm a PhD student in Civil Engineering (Building Science) at the University of Toronto, [IIB-LAB](https://sites.google.com/view/iiblab/) (advisor: [Dr. Seungjae Lee](https://hab.civmin.utoronto.ca/people/dr-seungjae-lee/)). I hold a Master of Science in Architectural Engineering under the supervision of [Dr. Jae-Weon Jeong](https://scholar.google.com/citations?user=9o_3FZ4AAAAJ&hl=ko&oi=ao/) at Hanyang University, after graduating my undergraduate as *Summa Cum Laude* in Architectural Engineering at Hanyang University as well. 
+🌱 I'm a PhD student in Civil Engineering (Building Science) at the University of Toronto & Intelligent and Interactive Buildings LAB (advisor: [Dr. Seungjae Lee](https://hab.civmin.utoronto.ca/people/dr-seungjae-lee/)). I hold a Master of Science in Architectural Engineering under the supervision of [Dr. Jae-Weon Jeong](https://scholar.google.com/citations?user=9o_3FZ4AAAAJ&hl=ko&oi=ao/) at Hanyang University, after graduating my undergraduate as *Summa Cum Laude* in Architectural Engineering at Hanyang University as well. 
 
 <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="80"> 
 

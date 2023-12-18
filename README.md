@@ -27,7 +27,7 @@ https://simpleicons.org/
 
 <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="80"> 
 
-I am interested in studying how occupants interact with buildings through indoor environments and interfaces. If you are interested in  myself, please look into my [CV](https://drive.google.com/file/d/11gRWusAPum5zXh4VHKVGbVvyxIKVRtqB/view?usp=sharing).
+I am interested in studying how occupants interact with buildings through indoor environments and interfaces. If you are interested in  myself, please look into my [CV](https://drive.google.com/file/d/11gRWusAPum5zXh4VHKVGbVvyxIKVRtqB/view?usp=drive_link).
 
 
 <!--
